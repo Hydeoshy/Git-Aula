@@ -1,0 +1,8 @@
+div {
+    width: 50%;
+    height: 50%;
+    border: solid 8px gray;
+    display: block;
+    outline: solid 8px green; /* Outline: Seria um contorno para a borda da nossa caixa. */
+    
+}

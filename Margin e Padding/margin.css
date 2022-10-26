@@ -1,0 +1,16 @@
+
+div {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    margin: 10px 12px;
+    display: inline;
+}
+section {
+    border: 2px solid green;
+    width: 100px;
+    height: 100px;
+    margin: 10px 8px 8px 10px;
+    display: block;
+    padding: 6px 10px 10px 6px;  /* Padding: Espaçamento interno, utilizado para aplicar distância das palavras dentro da caixa. */
+}
