@@ -1,0 +1,16 @@
+* {margin: 0;}
+
+/*.header {
+}*/
+main{
+    color: white;
+
+    background-color: rgb(55, 100, 50);
+    background-image: url(https://abii.com.br/wp-content/uploads/2022/02/tendencias-de-tecnologia-300x200.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+
+}
